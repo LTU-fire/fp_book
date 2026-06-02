@@ -5,14 +5,14 @@ project:
 number-sections: true
 
 book:
-  title: "Heat transfer in fire engineering"
-  author: "Oisik Das, LTU"
+  title: "Fire Physics"
+  author: "Michael Försth, LTU"
   
-  repo-url: https://github.com/LTU-fire/fd-book/
+  repo-url: https://github.com/LTU-fire/fp-book/
   repo-subdir: chapters
   repo-branch: main
   repo-actions: [issue]
-  url: https://LTU-fire.github.io/fd-book/
+  url: https://LTU-fire.github.io/fp-book/
   sidebar:
     logo: figures/dragonLogo.png
     search: true
